@@ -1,4 +1,4 @@
-# InsightFeed – AI-Powered Reel Recommendation Agent
+# InsightFeed-AI-Interest-Thread-Smart-Recommendation
 
 ## Overview
 
